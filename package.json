@@ -1,0 +1,17 @@
+{
+  "name": "prova-node",
+  "version": "1.0.0",
+  "description": "prima prova in classe",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "m.pogliani",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1"
+  }
+}
